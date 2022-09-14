@@ -6,6 +6,8 @@
 
 Для выделения полужирным нужно обрамить двойными звездочками \**Полужирный.** - **Полужирный.**
 
+зачеркнуть это \~~ - ~~пример~~
+
 ## Списки
 
 * Элемент 1
@@ -16,4 +18,11 @@
 2. Второй элемент
 3. Третий элемент
 
-eee
+
+
+
+а вот картинка !\[alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "text")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "text")
+
+
