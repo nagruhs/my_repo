@@ -39,7 +39,7 @@
 Для удаления ветки ввести команду `git branch -d 'name branch'`
 
 
-## Краткий список  команд git
+## Краткий список основных команд git
 -----------------
 * `git config --global user.name` - ввод имени пользователя
 * `git config --global user.email` - ввод e-mail адреса пользователя
